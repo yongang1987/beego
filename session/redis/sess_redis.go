@@ -38,7 +38,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/astaxie/beego/session"
+	"github.com/yongang1987/beego/session"
 
 	"github.com/garyburd/redigo/redis"
 )
